@@ -148,4 +148,4 @@ noticed — both by other players and by the anti-cheat.
 
 ---
 
-*elden-ring-toolkit-pack · Updated 2026-11-09 · Shared under the MIT License*
+*elden-ring-toolkit-pack · Updated 2026-11-10 · Shared under the MIT License*
